@@ -287,6 +287,9 @@ footer.second p {
 /* MEDIA SIZING */
 
 @media screen and (max-width: 768px) {
+  #header {
+    background: black;
+  }
   #menu-icon {
     margin: 25px 0 0 25px;
   }
